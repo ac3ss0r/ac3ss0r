@@ -14,9 +14,17 @@ My main activities are:
 - Low-level software developement
 - Game cracking and modding
 
+Technologies I work with:
+
+<div align=center style="background-color: transparent;">
+	<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js"/>
+	<br/>
+	<img src="https://skillicons.dev/icons?i=visualstudio,eclipse"/>
+</div>
+
 Contact:
 
-- Discord: <a href="https://discordapp.com/users/908688934672924673">`Acessor#3004`</a> 
+- Discord: <a href="https://discord.com/channels/@me">`@acessor`</a> 
 - Telegram: <a href="https://t.me/ac3ss0r">`@ac3ss0r`</a>
 
 <div align="center" style="background-color: transparent;"><img style="opacity: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac3ss0r&langs_count=4&theme=transparent&bg_color=00000000"/></div>
