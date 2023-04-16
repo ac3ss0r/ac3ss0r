@@ -6,7 +6,7 @@ My main activities are:
 - Low-level software developement
 - Game cracking and modding
 
-<div align="center" style="background-color: transparent;"><img width="40%" src="https://raw.githubusercontent.com/acessors/acessors/main/java.gif"></div>
+<div align="center" style="background-color: transparent;"><img style="opacity: 100%;" width="40%" src="https://raw.githubusercontent.com/acessors/acessors/main/java.gif"></div>
 
 <div align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/acessors?label=stars">
