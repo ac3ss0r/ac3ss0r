@@ -5,7 +5,7 @@ Hi there! I'm a programmer-hobbyist and a reverse-engineer from Russia / Belarus
 </div>
 <div align=center style="background-color: transparent;">
 	<img alt="Stars" src="https://img.shields.io/github/stars/acess0r?label=stars"/>
-	<img alt="Forks" src="https://visitor-badge.laobi.icu/badge?page_id=acess0r"/>
+	<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=acess0r"/>
 </div>
     
 My main activities are:
