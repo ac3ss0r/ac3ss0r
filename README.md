@@ -17,6 +17,6 @@ My main activities are:
 Contact:
 
 - Discord: <a href="https://discordapp.com/users/908688934672924673">`Acessor#3004`</a> 
-- Telegram: <a href="https://t.me/ac3ss0r">`@netreverser`</a>
+- Telegram: <a href="https://t.me/ac3ss0r">`@ac3ss0r`</a>
 
 <div align="center" style="background-color: transparent;"><img style="opacity: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac3ss0r&langs_count=4&theme=transparent&bg_color=00000000"/></div>
