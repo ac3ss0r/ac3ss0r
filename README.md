@@ -14,7 +14,7 @@ My main activities are:
 - Low-level software developement
 - Game cracking and modding
 
-Technologies I work with:
+Things I'm familiar with:
 
 <div align=center style="background-color: transparent;">
 	<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js"/>
