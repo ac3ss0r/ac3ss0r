@@ -4,7 +4,7 @@
  I'm a self-taught programmer and a reverse-engineer from Russia / Belarus. I have 6+ years experience of developing software in C/C++, Java, C#, Web and a few years in cracking and reversing software on various platforms.
 
 <div align=center style="background-color: transparent;">
-	<img style="opacity: 100%;" width="70%" src="preview.gif"/>
+	<img style="opacity: 100%;" width="80%" src="preview.gif"/>
 </div>
 <div align=center style="background-color: transparent;">
 	<img alt="Stars" src="https://img.shields.io/github/stars/ac3ss0r?label=stars"/>
